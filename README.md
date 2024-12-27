@@ -45,14 +45,6 @@ Docker.
 <hr>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayzann&show_icons=true&locale=en&theme=radical" alt="ayzann" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzann&show_icons=true&locale=en&theme=radical" alt="ayzann"  />
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayzann&show_icons=true&locale=en&theme=radical" alt="ayzann" />
-</div>
-
-<div align="center">
     <h3>Connect with me:</h3>
 
 
