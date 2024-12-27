@@ -4,7 +4,7 @@
 
 <p><strong>Apprentice fullstack.
     
-<img src="https://imgur.com/a/lj2y0yA" alt="Description du GIF" width="500" height="300">
+<a href="https://imgur.com/a/lj2y0yA" target="_blank" rel="noopener noreferrer"></a>
 
 
 </div>
