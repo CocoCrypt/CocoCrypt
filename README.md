@@ -29,13 +29,18 @@
 
 <hr>
 
-- 🛒 I am the founder and lead developer of Coco Chill - [(Discord)]([https://discord.gg/8pxXhJqDh3]).
+- 👋 Bonjour, je suis AyZann
+- 🎯 Fondateur et Lead Developer de COCO Chill
 
-- 🌱 I'm currently learning **_TypeScript, VueJS, Laravel, Tailwind_**
+- 🛒 Je suis également le créateur de plusieurs projets ambitieux.
+- ⌛️ Lead Developer de Coco Bot.
+- ⌛️ Lead Developer de DispatchPro.
 
-- 💡 I'm currently learning how to properly use **_Docker, Figma_**
+🌱 Actuellement, j'apprends :
 
-- 👨‍💻 Find out more about me [https://cocochill.ayzann.fr/](https://cocochill.ayzann.fr/))
+Docker.
+
+👨‍💻 En savoir plus sur moi et Coco Chill : https://ayzann.fr/ <br> https://cocochill.ayzann.fr/
 
 <hr>
 
