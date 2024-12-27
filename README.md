@@ -40,16 +40,16 @@
 
 Docker.
 
-👨‍💻 En savoir plus sur moi et Coco Chill : https://ayzann.fr/ <br> https://cocochill.ayzann.fr/
+👨‍💻 En savoir plus sur moi et Coco Chill :<br> https://ayzann.fr/ <br> https://cocochill.ayzann.fr/
 
 <hr>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kozeuh&show_icons=true&locale=en&theme=radical" alt="ayzann" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kozeuh&show_icons=true&locale=en&theme=radical" alt="ayzann"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=ayzann&show_icons=true&locale=en&theme=radical" alt="ayzann" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayzann&show_icons=true&locale=en&theme=radical" alt="ayzann"  />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kozeuh&show_icons=true&locale=en&theme=radical" alt="ayzann" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayzann&show_icons=true&locale=en&theme=radical" alt="ayzann" />
 </div>
 
 <div align="center">
