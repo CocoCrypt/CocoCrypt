@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm </h1>
-<img src="https://kozeuh-dev.fr/images/banner.gif?raw=true" href="https://github.com/kozeuh" width="50%"/>
+<img src="?raw=true" href="" width="50%"/>
 
 <p><strong>Apprentice fullstack developer.
 
