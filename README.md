@@ -3,9 +3,10 @@
 <img src="?raw=true" href="" width="50%"/>
 
 <p><strong>Apprentice fullstack.
+    
+<img src="C:/Users/Corentin/Downloads/COCO_CHILL_1.png" alt="Description du GIF" width="500" height="300">
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=KoZeuh&style=for-the-badge&color=green&label=PROFILE+VIEWS)
 </div>
 
 <hr>
@@ -35,11 +36,13 @@
 - 🛒 Je suis également le créateur de plusieurs projets ambitieux.
 - ⌛️ Lead Developer de Coco Bot.
 - ⌛️ Lead Developer de DispatchPro.
-
+  
+<br>
 🌱 Actuellement, j'apprends :
 
 Docker.
 
+<br>
 👨‍💻 En savoir plus sur moi et Coco Chill :<br> https://ayzann.fr/ <br> https://cocochill.ayzann.fr/
 
 <hr>
