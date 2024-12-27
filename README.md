@@ -4,7 +4,7 @@
 
 <p><strong>Apprentice fullstack.
     
-<img src="COCO_CHILL_1.png" alt="Description du GIF" width="500" height="300">
+<img src="https://imgur.com/a/lj2y0yA" alt="Description du GIF" width="500" height="300">
 
 
 </div>
