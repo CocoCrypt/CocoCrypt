@@ -2,7 +2,7 @@
 <h1>Hi 👋, I'm </h1>
 <img src="?raw=true" href="" width="50%"/>
 
-<p><strong>Apprentice fullstack.
+<p><strong>Apprenti developer.
     
 <a href="https://imgur.com/a/lj2y0yA" target="_blank" rel="noopener noreferrer"></a>
 
