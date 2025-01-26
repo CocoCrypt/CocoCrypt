@@ -35,8 +35,9 @@
 - 🎯 Fondateur et Lead Developer de COCO Chill
 
 - 🛒 Je suis également le créateur de plusieurs projets ambitieux.
-- ⌛️ Lead Developer de Coco Bot.
-- ⌛️ Lead Developer de DispatchPro.
+- ⌛️ Principal Developpeur de Coco Bot.
+- ⌛️ Principal Developpeur de DispatchPro.
+- ⌛️ Principal Developpeur du Site de L'amicale Bordeaux
   
 <br>
 🌱 Actuellement, j'apprends :
