@@ -45,7 +45,7 @@
 Docker.
 
 <br>
-👨‍💻 En savoir plus sur moi et Coco Chill :<br> https://ayzann.fr/ <br> https://cocochill.ayzann.fr/
+👨‍💻 En savoir plus sur moi et Coco Chill : <br> https://cocochill.ayzann.fr/
 
 <hr>
 
