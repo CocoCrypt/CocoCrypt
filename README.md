@@ -1,9 +1,9 @@
 <div align="center">
 <h1>Hi 👋, I'm </h1>
-<img src="[https://cocochill.ayzann.fr/COCO_CHILL_1.png](https://cdn.discordapp.com/attachments/1223412636369289329/1350851306985754746/ayzannlogo.jpg?ex=67d83dd1&is=67d6ec51&hm=d294c84fdb002740c009faab681d9f343b47adfc32f2bb40a6e616e525e8fc4a&)?raw=true" href="https://github.com/cococrypt" width="50%"/>
+<img src="https://cdn.discordapp.com/attachments/1223412636369289329/1350851306985754746/ayzannlogo.jpg?ex=67d83dd1&is=67d6ec51&hm=d294c84fdb002740c009faab681d9f343b47adfc32f2bb40a6e616e525e8fc4a&)?raw=true" href="https://github.com/cococrypt" width="50%"/>
 
 
-<p><strong>Apprenti developer.
+<p><strong>Developer Confirmer.
     
 <a href="https://imgur.com/a/lj2y0yA" target="_blank" rel="noopener noreferrer"></a>
 
