@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Hi 👋, I'm </h1>
+<h1>Hi 👋, I'm  AyZann</h1>
 <img src="https://cdn.discordapp.com/attachments/1223412636369289329/1350852579986374686/ayzannlogo.png?ex=67d83f00&is=67d6ed80&hm=de475bac857eaeb8ec03ef8b46e1a8306037397d506d99f2f0d82f70f32973cd&" href="https://github.com/cococrypt" width="50%"/>
 
 
@@ -21,8 +21,6 @@
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat&logo=trello&logoColor=white)
@@ -37,7 +35,7 @@
 - 🛒 Je suis également le créateur de plusieurs projets ambitieux.
 - ⌛️ Principal Developpeur de Coco Bot.
 - ⌛️ Principal Developpeur de DispatchPro.
-- ⌛️ Principal Developpeur du Site de L'amicale Bordeaux
+- ⌛️ Principal Developpeur du Site de L'amicale des pompiers de St Médard en Jalles(https://lagrotte.ovh/)
   
 <br>
 🌱 Actuellement, j'apprends :
