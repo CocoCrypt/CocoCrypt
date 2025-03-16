@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi 👋, I'm </h1>
-<img src="https://cdn.discordapp.com/attachments/1223412636369289329/1350852579986374686/ayzannlogo.png?ex=67d83f00&is=67d6ed80&hm=de475bac857eaeb8ec03ef8b46e1a8306037397d506d99f2f0d82f70f32973cd&?ex=67d83dd1&is=67d6ec51&hm=d294c84fdb002740c009faab681d9f343b47adfc32f2bb40a6e616e525e8fc4a&)?raw=true" href="https://github.com/cococrypt" width="50%"/>
+<img src="https://cdn.discordapp.com/attachments/1223412636369289329/1350852579986374686/ayzannlogo.png?ex=67d83f00&is=67d6ed80&hm=de475bac857eaeb8ec03ef8b46e1a8306037397d506d99f2f0d82f70f32973cd&" href="https://github.com/cococrypt" width="50%"/>
 
 
 <p><strong>Developer Confirmer.
