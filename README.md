@@ -25,12 +25,12 @@
 <!-- ═══════════════════════════ À PROPOS ═══════════════════════════ -->
 ## 🥥 À propos de moi
 
-Développeur passionné, je conçois des **bots Discord**, des **outils pour serveurs RP** et des **sites web** pensés pour être simples à utiliser et solides en production. Je suis le fondateur et Lead Developer de **COCO Chill**, l'écosystème qui regroupe la plupart de mes projets.
+Développeur passionné, je conçois des **bots Discord**, des **outils pour serveurs RP** et des **sites web** pensés pour être simples à utiliser et solides en production. Je suis le Co-fondateur et Lead Developer de **LUCTY**, l'écosystème qui regroupe la plupart de mes projets.
 
 ```js
 const ayzann = {
-  role:        "Fondateur & Lead Developer @ COCO Chill",
-  specialites: ["Bots Discord", "Outils GTA RP", "Développement web"],
+  role:        "Fondateur & Lead Developer @ Lucty",
+  specialites: ["Bots Discord", "Outils GTA RP", "Développement web", "Autres..."],
   stack:       ["JavaScript", "Node.js", "PHP", "SQL", "Lua"],
   apprend:     ["Docker 🐳"],
   philosophie: "Automatiser tout ce qui peut l'être ⚙️",
