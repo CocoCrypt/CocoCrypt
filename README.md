@@ -46,14 +46,14 @@ const ayzann = {
   <tr>
     <td width="50%" valign="top">
       <h3>🛰️ <a href="https://github.com/CocoCrypt/DISPATCH-PRO">Dispatch Pro</a></h3>
-      <p>Bot Discord qui automatise l'administration des serveurs <b>GTA RP</b> : prises et fins de service, pauses, et calcul automatique des heures hebdomadaires.</p>
+      <p>Bot Discord qui automatise l'administration des serveurs <b>GTA RP</b> : prises et fins de service, pauses, et calcul automatique des heures hebdomadaires. Mais a l'heure d'aujourd'hui inactif. </p>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
       <img src="https://img.shields.io/badge/Statut-Actif-2A9D8F?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Coco Bot</h3>
-      <p>Le bot officiel de la communauté <b>COCO Chill</b>, dont je suis le développeur principal : modération, outils communautaires et fonctionnalités sur mesure.</p>
+      <h3>🤖 Lucty BETA</h3>
+      <p>Le bot officiel de la communauté <b>LUCTY</b>, dont je suis le développeur principal : modération, outils communautaires et fonctionnalités sur mesure, et ouvert à tout serveur prochainement...</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/>
       <img src="https://img.shields.io/badge/Statut-En_développement-F4A261?style=flat-square"/>
@@ -61,14 +61,14 @@ const ayzann = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚒 <a href="https://lagrotte.ovh/">Amicale des pompiers de St-Médard-en-Jalles</a></h3>
+      <h3>🚒 <a href="https://amicalespsmj.fr/">Amicale des pompiers de St-Médard-en-Jalles</a></h3>
       <p>Site web de l'amicale des sapeurs-pompiers, conçu et développé de A à Z.</p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/En_ligne-lagrotte.ovh-E34F26?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🥥 <a href="https://cocochill.ayzann.fr/">COCO Chill</a></h3>
+      <h3>🥥 <a href="https://discord.gg/wTKbg4uFRq">LUCTY</a></h3>
       <p>Le projet que j'ai fondé et qui rassemble mes créations. Tout est présenté sur le site officiel.</p>
       <img src="https://img.shields.io/badge/Fondateur-AyZann-2A9D8F?style=flat-square"/>
       <img src="https://img.shields.io/badge/Site-cocochill.ayzann.fr-F4A261?style=flat-square"/>
