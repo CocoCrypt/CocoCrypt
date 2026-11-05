@@ -8,6 +8,8 @@ Je m'appelle Corentin, alias AyZann. Développeur polyvalent et curieux insatiab
 Bots Discord, sites web, applications, automatisations, outils internes… je peux développer à peu près tout type de projet, de la première ligne de code jusqu'à la mise en production.
 Je suis Co-fondateur & Lead Développeur de LUCTY, une association loi 1901 qui héberge et développe des sites, des bots et des applications à prix coûtant pour les associations, commerçants, créateurs et particuliers, vraiment allez y jeter un oeil c'est hyper intéressant !
 
+<br> <br>
+
 ```js
 const ayzann = {
   nom:         "Corentin",
