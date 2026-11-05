@@ -5,8 +5,9 @@
 💜 Qui suis-je ?
 <img align="right" src="https://lucty.fr/image/luctylogo.png" width="170" alt="Logo LUCTY"/>
 Je m'appelle Corentin, alias AyZann. Développeur polyvalent et curieux insatiable, j'apprends vite et je transforme des idées complexes en outils concrets qui tournent vraiment.
-Bots Discord, sites web, applications, API, automatisations, outils internes… je peux développer à peu près tout type de projet, de la première ligne de code jusqu'à la mise en production.
-Je suis Co-fondateur & Lead Développeur de LUCTY, une association loi 1901 qui héberge et développe des sites, des bots et des applications à prix coûtant pour les associations, commerçants, créateurs et particuliers.
+Bots Discord, sites web, applications, automatisations, outils internes… je peux développer à peu près tout type de projet, de la première ligne de code jusqu'à la mise en production.
+Je suis Co-fondateur & Lead Développeur de LUCTY, une association loi 1901 qui héberge et développe des sites, des bots et des applications à prix coûtant pour les associations, commerçants, créateurs et particuliers, vraiment allez y jeter un oeil c'est hyper intéressant !
+
 js
 const ayzann = {
   nom:         "Corentin",
@@ -17,7 +18,9 @@ const ayzann = {
   apprend:     ["Docker 🐳"],
   philosophie: "Si ça peut se coder, je le code ⚡",
 };
-<br clear="right"/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/> <!-- ╔═══════════════════════════════ PROJETS ═══════════════════════════════╗ -->
+<br clear="right"/> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/> 
+
+<!-- ╔═══════════════════════════════ PROJETS ═══════════════════════════════╗ -->
 🚀 Mes projets
 <table> <tr> <td width="50%" valign="top"> <h3>🚒 <a href="https://amicalespsmj.com/">Amicale des Sapeurs-Pompiers de St-Médard-en-Jalles</a></h3> <img src="https://img.shields.io/badge/⭐_PROJET_PHARE-LUCTY-8B5CF6?style=flat-square"/> <p>Le <b>plus gros projet actuel de LUCTY</b> : le site de l'amicale, une association créée en 1940 qui rassemble 165 pompiers. Conçu et développé de A à Z.</p> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/●_En_ligne-2DD4BF?style=flat-square"/> </td> <td width="50%" valign="top"> <h3>🤖 <a href="https://discord.gg/wTKbg4uFRq">Lucty BETA</a></h3> <img src="https://img.shields.io/badge/🌐_BIENTÔT-Inter--serveurs-3B82F6?style=flat-square"/> <p>Le bot officiel de la communauté <b>LUCTY</b> : modération, outils communautaires et fonctionnalités sur mesure. Bientôt disponible pour <b>tous les serveurs Discord</b>.</p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/●_Actif-2DD4BF?style=flat-square"/> </td> </tr> <tr> <td width="50%" valign="top"> <h3>☁️ <a href="https://lucty.fr/">LUCTY</a></h3> <img src="https://img.shields.io/badge/Co--fondateur-Lead_Dev-8B5CF6?style=flat-square"/> <p>Association d'<b>hébergement</b> (bots, sites, API dès 1 €/mois) et de <b>développement sur mesure</b>. Zéro salaire, zéro marge, tout est réinvesti dans l'infrastructure.</p> <img src="https://img.shields.io/badge/Hébergement-Bots_•_Sites_•_API-3B82F6?style=flat-square"/> <img src="https://img.shields.io/badge/Asso-Loi_1901-2DD4BF?style=flat-square"/> </td> <td width="50%" valign="top"> <h3>🛰️ <a href="https://github.com/CocoCrypt/DISPATCH-PRO">Dispatch Pro</a></h3> <img src="https://img.shields.io/badge/📦_ARCHIVÉ-inactif-6e7681?style=flat-square"/> <p>Bot Discord qui automatisait l'administration des serveurs <b>GTA RP</b> : prises et fins de service, pauses et calcul des heures hebdomadaires.</p> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/●_Archivé-6e7681?style=flat-square"/> </td> </tr> </table> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%"/> <!-- ╔═══════════════════════════════ STACK ═══════════════════════════════╗ -->
 🛠️ Stack technique
